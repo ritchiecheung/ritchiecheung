@@ -3,7 +3,8 @@
 #### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON     3 mins          ███████████▓░░░░░░░░░░░░░   46.38 % 
+Kotlin   2 mins          ██████████░░░░░░░░░░░░░░░   39.74 % 
 ```
 <!--END_SECTION:waka-->
 ---

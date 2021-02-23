@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-<table width="800px">
+<table width="1000px">
  <tr>
 <td valign="top" width="50%">
 📊 **This Week I Spent My Time On:**
